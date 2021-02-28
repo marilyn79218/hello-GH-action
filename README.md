@@ -19,3 +19,8 @@ The time we greeted you.
 uses: actions/hello-world-javascript-action@v1.1
 with:
   who-to-greet: 'Mona the Octocat'
+
+## Reference
+
+- Doc: https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action
+- `react-lazy-show` PR: https://github.com/marilyn79218/react-lazy-show/pull/11
